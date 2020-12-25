@@ -1,0 +1,13 @@
+#target{
+    position: relative;
+    width: 90vw;
+    height: 50vh;
+    top:15vh;
+    background:black;
+    color:floralwhite;
+    font-size:200%;
+    padding:2vw;
+    font-variant:small-caps ;
+    font-weight:bold;
+    font-family:"courier";
+}
